@@ -33,11 +33,11 @@ div.maintext{
     
 }
 body{
-    height: 800px;
+    height: 100%;
 }
 div.maininfo{
     width: 70%;
-    height: 800px;
+    height: 100%;
 
     background-color: rgba(196, 196, 196, 1);
     margin: auto;
