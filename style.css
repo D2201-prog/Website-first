@@ -1,8 +1,8 @@
 div.header{
     max-width: 140%;
-    height: 100px;
+    height: 150px;
     background-color: rgba(174, 21, 131, 1);
-    margin-top: -20px;
+    margin-top: -35px;
     margin-left: -10px;
     margin-right: -10px;
 }
@@ -10,7 +10,7 @@ div.mainname{
     max-width: 30%;
     height: 60px;
     background-color: rgba(6, 146, 155, 1);
-    margin: auto;
+    margin-left: 40%;
 }
 @font-face {
     margin-left: 20%;
@@ -28,24 +28,22 @@ div.mainname{
                  url("Iceberg-Regular.ttf") format("tff"),}
 div.maintext{
     font-size: calc(1px + 2vw);
-    display: inline-block;
-    margin: auto;
-    margin-top: -5px;
+    margin-top: calc(-100px+5vw);
     
 }
 body{
-    height: 700px;
+    height: 100%;
 }
 div.maininfo{
     width: 70%;
-    height: 700px;
+    height: 100%;
 
     background-color: rgba(196, 196, 196, 1);
     margin: auto;
 }
 ul#menu-right li{
     display:inline-block; 
-    margin-top: -10px;
+    margin-top: -50%;
     padding-right: 2%;}
 button.home {
     
