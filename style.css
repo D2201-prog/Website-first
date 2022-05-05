@@ -34,11 +34,11 @@ div.maintext{
     
 }
 body{
-    height: 5000px;
+    height: 2000px;
 }
 div.maininfo{
     width: 70%;
-    height: 5000px;
+    height: 2000px;
 
     background-color: rgba(196, 196, 196, 1);
     margin: auto;
